@@ -5,7 +5,7 @@ I am a **Software Engineer** with a strong focus on **Backend Development**, spe
 ## 🔧 Technologies & Tools
 
 - **Backend Development**: .NET, ASP.NET Core, Django
-- **Database Management**: SQL Server, PostgreSQL, MySQL
+- **Database Management**: SQL Server, MySQL
 - **Version Control**: Git, GitHub, GitLab
 - **Development Tools**: Visual Studio, Entity Framework,linq, RESTful APIs
 
@@ -17,8 +17,8 @@ Over the course of my career, I have developed robust and scalable backend solut
 
 Here are some of the projects I've worked on that showcase my backend development skills:
 
-- **[BookHive]**: A comprehensive solution built using .NET that streamlines business operations. [Link to project]
-- **[Memora]**: A Django-based mobile assistant designed to support Alzheimer’s patients. It leverages face recognition, speech transcription, and task scheduling to enhance memory support and daily organization [Link to project]
+- **[BookHive](https://github.com/AbdElRahmanMDev/BookHive)**: A comprehensive solution built using .NET that streamlines business operations. 
+- **[Memora](https://github.com/AbdElRahmanMDev/Memora)**: A Django-based mobile assistant designed to support Alzheimer’s patients. It leverages face recognition, speech transcription, and task scheduling to enhance memory support and daily organization 
 
 Feel free to explore my repositories to learn more about the projects I’ve worked on. I am always open to feedback, contributions, and collaboration opportunities.
 
