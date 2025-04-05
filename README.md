@@ -6,9 +6,8 @@ I am a **Software Engineer** with a strong focus on **Backend Development**, spe
 
 - **Backend Development**: .NET, ASP.NET Core, Django
 - **Database Management**: SQL Server, PostgreSQL, MySQL
-- **Cloud Platforms**: Microsoft Azure
 - **Version Control**: Git, GitHub, GitLab
-- **Development Tools**: Visual Studio, Docker, Entity Framework, RESTful APIs
+- **Development Tools**: Visual Studio, Entity Framework,linq, RESTful APIs
 
 ## 💼 Professional Experience
 
@@ -18,15 +17,10 @@ Over the course of my career, I have developed robust and scalable backend solut
 
 Here are some of the projects I've worked on that showcase my backend development skills:
 
-- **[Project Name 1]**: A comprehensive solution built using .NET that streamlines business operations. [Link to project]
-- **[Project Name 2]**: A Django-based application for data management with advanced query optimization. [Link to project]
+- **[BookHive]**: A comprehensive solution built using .NET that streamlines business operations. [Link to project]
+- **[Memora]**: A Django-based mobile assistant designed to support Alzheimer’s patients. It leverages face recognition, speech transcription, and task scheduling to enhance memory support and daily organization [Link to project]
 
 Feel free to explore my repositories to learn more about the projects I’ve worked on. I am always open to feedback, contributions, and collaboration opportunities.
 
-## 📬 Get in Touch
-
-- [LinkedIn](your-linkedin-profile-link)
-- [Twitter](your-twitter-profile-link)
-- [Website](your-personal-website-link)
 
 I am always looking for new opportunities to collaborate, grow, and contribute to meaningful projects. Let’s connect!
