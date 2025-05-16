@@ -60,9 +60,10 @@ A Django-powered mobile assistant tailored for Alzheimer’s patients. Features:
 
 I’m always looking for exciting new projects, opportunities to grow, and ways to contribute meaningfully to the developer community. Whether you're building something innovative, need help designing APIs, or want to collaborate — feel free to reach out!
 
-- 📧 [Email Me](mailto:your@email.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 💻 [GitHub](https://github.com/AbdElRahmanMDev)
+- 📧 [abdelrahman.m.elsayedd@gmail.com](mailto:abdelrahman.m.elsayedd@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdelrahman-mohamed-4a234835b)  
+- 💻 [GitHub](https://github.com/AbdElRahmanMDev)  
+
 
 ---
 
